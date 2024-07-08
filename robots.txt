@@ -1,4 +1,3 @@
-robots.txt generated Md Rokonuzzaman
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
